@@ -45,9 +45,5 @@ The notebook provides a detailed analysis of the agent's performance with differ
 
 This experiment demonstrates the importance of hyperparameter tuning in training reinforcement learning agents. By systematically varying the hyperparameters, we can achieve significant improvements in the agent's performance. The results and visualizations provided in this notebook serve as a valuable resource for understanding the impact of different hyperparameters on the PPO algorithm.
 
-![Training Performance](https://i.imgur.com/f0rPEpQ.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
